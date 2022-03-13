@@ -23,7 +23,7 @@
  *
  * @version $Revision$
  * @package log4php
- * @see Logger
+ * @see LoggerInterface
  */
 class LoggerRoot extends Logger {
 	/**

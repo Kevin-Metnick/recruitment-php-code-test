@@ -515,7 +515,7 @@ class Logger {
 	
 	/**
 	 * Returns an array this whole Logger instances.
-	 * @see Logger
+	 * @see LoggerInterface
 	 * @return array
 	 */
 	public static function getCurrentLoggers() {
